@@ -97,22 +97,24 @@
 <tr>
 <td align="center">
 
-### 🔷 **[FinSight AI](https://github.com/21priyanshuuu/FinSight-AI)**
+### 🔷 **[MediVision AI](https://github.com/21priyanshuuu/MediVision-AI)**
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="AI Animation" />
+<img src="https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif" width="200" alt="Medical AI Animation" />
 
-**🎯 AI-Powered Financial Intelligence Platform**
+**🏥 AI-Powered Medical Diagnosis Platform**
 
 ✨ **Features:**
-- 🧠 Smart Expense Tracking with AI Insights
-- 📊 Real-time Financial Analytics  
-- 🤖 Machine Learning Predictions
-- 🔐 Secure Authentication (Clerk)
-- 🎨 Beautiful UI (Tailwind + Shadcn)
-- ⚡ Lightning Fast (Next.js 15)
+- 🤖 10 Integrated ML Models for Disease Detection
+- 🔬 TensorFlow Image Analysis Pipeline
+- 📋 Automated Medical Report Generation
+- 💊 Smart Medication Suggestions
+- 📊 Patient History & Insights Dashboard
+- 🩺 Early Disease Detection System
 
 **🛠️ Tech Stack:**
-`Next.js` `Prisma` `Google Gemini API` `TailwindCSS` `Clerk Auth` `PostgreSQL` `Python` `ML Models`
+`Python` `Next.js` `TensorFlow` `Gemini API` `MongoDB` `Machine Learning` `Computer Vision`
+
+**📅 Development:** July 2024
 
 </td>
 </tr>
