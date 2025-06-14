@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🌟 **Priyanshu Singh** 🌟
-### *Frontend Architect & AI Enthusiast* 
+### *Full Stack Developer & AI/ML Engineer* 
 ### 🇮🇳 *Crafting Digital Excellence from India* 🇮🇳
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;AI+Integration+Expert+%F0%9F%A4%96;React+%26+Next.js+Specialist+%E2%9A%A1;Building+the+Future+%F0%9F%8C%9F" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;React+%26+Next.js+Expert+%E2%9A%A1;Machine+Learning+Specialist+%F0%9F%A7%A0;Building+the+Future+%F0%9F%8C%9F" alt="Typing Animation" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
 
@@ -29,19 +29,21 @@
 ### 🧠 **Mastering**
 ✨ Next.js 15 • Prisma ORM  
 🎨 TailwindCSS • Shadcn/UI  
-🤖 Google Gemini API • AI Integration
+🤖 Google Gemini API • AI/ML Models  
+🐍 Python • TensorFlow • PyTorch
 
 </td>
 <td align="center" width="50%">
 
 ### 💫 **Expertise**
-💻 React Ecosystem Mastery  
-🎨 Frontend Architecture  
-🤖 AI Integration Specialist  
-🌐 Full-Stack Development
+🌐 Full-Stack Development  
+🤖 AI/ML Engineering  
+🔬 Data Science & Analytics  
+☁️ Cloud Architecture  
+🏗️ System Design
 
 ### 📬 **Connect**
-📧 priyanshusingh.dev@gmail.com  
+📧 priyanshu1290singh@gmail.com  
 ⚡ *Dark Mode Debugging Champion* 😎
 
 </td>
@@ -54,20 +56,29 @@
 
 ## 🛠️ **TECH ARSENAL**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,prisma,postgres,firebase,vercel,docker,git,nodejs,mongodb,figma&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,prisma,postgres,firebase,vercel,docker,git,nodejs,mongodb,python,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="Tech Stack" />
 
-### **Frontend Mastery**
+### **Frontend & Backend Mastery**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Backend & Database**
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### **Database & Cloud**
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### **AI & Cloud**
+### **DevOps & Cloud**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -95,12 +106,13 @@
 ✨ **Features:**
 - 🧠 Smart Expense Tracking with AI Insights
 - 📊 Real-time Financial Analytics  
+- 🤖 Machine Learning Predictions
 - 🔐 Secure Authentication (Clerk)
 - 🎨 Beautiful UI (Tailwind + Shadcn)
 - ⚡ Lightning Fast (Next.js 15)
 
 **🛠️ Tech Stack:**
-`Next.js` `Prisma` `Google Gemini API` `TailwindCSS` `Clerk Auth` `PostgreSQL`
+`Next.js` `Prisma` `Google Gemini API` `TailwindCSS` `Clerk Auth` `PostgreSQL` `Python` `ML Models`
 
 </td>
 </tr>
@@ -134,7 +146,8 @@
 - 🎯 User-Centric Design
 - ⚡ Performance Optimization
 - 🧩 Clean Architecture
-- 🔮 Future-Ready Solutions
+- 🤖 AI-Driven Solutions
+- 🔮 Future-Ready Technology
 
 </div>
 
@@ -155,7 +168,7 @@
 </a>
 
 ### 💫 **Open for:**
-🤝 Collaboration • 💼 Freelance Projects • 🚀 Startup Opportunities
+🤝 Collaboration • 💼 Freelance Projects • 🚀 Startup Opportunities • 🤖 AI/ML Consulting
 
 </div>
 
@@ -163,21 +176,7 @@
 
 <div align="center">
 
-## ☕ **FUEL THE INNOVATION**
-
-<a href="https://www.buymeacoffee.com/21priyanshuuu" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-
-*Every coffee fuels the next breakthrough! ☕✨*
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 *"Building Tomorrow's Web, Today"* 🌟
+### 🌟 *"Building Tomorrow's Intelligent Web, Today"* 🌟
 
 <img src="https://komarev.com/ghpvc/?username=21priyanshuuu&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
