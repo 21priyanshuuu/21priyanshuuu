@@ -97,7 +97,7 @@
 <tr>
 <td align="center">
 
-### 🔷 **[MediVision AI](https://github.com/21priyanshuuu/MediVision-AI)**
+### 🔷 **[MediVision AI](https://github.com/21priyanshuuu/MedvisionProject)**
 
 <img src="https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif" width="200" alt="Medical AI Animation" />
 
